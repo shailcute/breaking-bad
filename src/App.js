@@ -5,6 +5,7 @@ import Login from "./component/login";
 import Register from "./component/register";
 import Dashboard from "./component/dashboard";
 
+
 function App() {
   return (
     <div className="App">
